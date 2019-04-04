@@ -4,6 +4,10 @@ In case you need it, a curated list of testimonies / blogposts / packages from e
 
 Feel free to contribute.
 
+## Meituan-dianping
+
++ [美团 R 语言数据运营实战](https://tech.meituan.com/2018/08/02/mt-r-practice.html)
+
 ## Airbnb 
 
 + [Using R packages and education to scale Data Science at Airbnb](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d)
